@@ -1,7 +1,7 @@
 # INDO-ISLAMIC-LIBRARY
 TEMPAT MEMBACA BUKU ISLAM GRATIS .
 
-program ini mnggunakan 
+program ini mnggunakan :
 1. html5
 2. css3
 3. javascript

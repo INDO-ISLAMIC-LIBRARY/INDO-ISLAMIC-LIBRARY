@@ -6,7 +6,6 @@ program ini mnggunakan :
 2. css3
 3. javascript
 4. font end frame work (bootstrap)
-5. 
 
 link : https://indo-islamic-library.github.io/
 
